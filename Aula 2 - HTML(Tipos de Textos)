@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/Aula 3/texto.css">
+</head>
+<body>
+    <section>
+    <h1>TIPOS DE TEXTOS:</h1>
+    <p>NEGRITO:  <strong>Eu</strong></p>
+    <p>ITALICO:  <em>sou</em></p>
+    <p>SUBLINHADO:  <u>texto</u></p>
+    <p>MARCADO:  <mark>humano</mark></p>
+    <p>PEQUENO:  <small>lindo</small></p>
+</section>
+</body>
+</html>
