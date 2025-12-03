@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tipos de Listas</title>
+    <link rel="stylesheet" href="/Aula 3/lista.css">
+</head>
+<body>
+
+    <h1>Tipos de Listas</h1>
+
+    <section>
+        <h2>ESTUDAR PROGRAMAÇÃO</h2>
+        <ol>
+            <li>Ter um PC</li>
+            <li>Ter uma internet boa</li>
+            <li>Estudar lógica de programação</li>
+            <li>Saber qual área você quer seguir</li>
+            <li>Se aprofundar no assunto</li>
+        </ol>
+    </section>
+
+    <section>
+        <h2>TECNOLOGIA WEB</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Java</li>
+            <li>Banco de Dados</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Misturando</h2>
+        <ol>
+            <li>Ter uma Empresa
+                <ul>
+                    <li>Ter um terreno</li>
+                    <li>Ter dinheiro</li>
+                    <li>Ser boa</li>
+                </ul>
+            </li>
+
+            <li>Ser Rico
+                <ul>
+                    <li>Trabalhar muito</li>
+                    <li>Economizar bastante</li>
+                    <li>Investir na bolsa de valores</li>
+                </ul>
+            </li>
+        </ol>
+    </section>
+
+</body>
+</html>
